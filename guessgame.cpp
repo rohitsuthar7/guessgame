@@ -1,4 +1,5 @@
-//this is my first repository
+//this is my first repository 
+// I am rohit suthar.
 #include<iostream>
 using namespace std;
 void startgame();
