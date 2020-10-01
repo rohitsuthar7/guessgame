@@ -1,6 +1,7 @@
 //this is my first repository 
 // I am rohit suthar.
 #include<iostream>
+#define limit 3
 using namespace std;
 void startgame();
 
@@ -42,5 +43,14 @@ void startgame(){
                 cout<<"\n-------YOU LOSE!!!!-------\n\n";break;
             }
         }
+  /* for(int i=0;i<limit;i++)
+      {
+        cout<<"Enter the Guess number:";
+            cin>>guess;
+            guesscount++;
+            if(secretNum==guess){
+                cout<<"\n-------YOU WON!!!!-------\n\n";break;
+            }
+      }*/
     }
 
