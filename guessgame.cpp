@@ -1,3 +1,4 @@
+//this is my first repository
 #include<iostream>
 using namespace std;
 void startgame();
@@ -25,7 +26,7 @@ void startgame(){
     int secretNum=7;
     int guess;
     int guesscount=0;
-    cout<<"Get ready ....you have three chances to guess\n\n";
+    cout<<"Get ready....you have three chances to guess the number\n\n";
 
     while(secretNum!=guess){
         if(guesscount<3){
