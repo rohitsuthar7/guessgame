@@ -1,5 +1,5 @@
 //this is my first repository 
-/*t-shirt k chakkar m kya kya karna padta*/
+// I am rohit suthar.
 #include<iostream>
 using namespace std;
 void startgame();
