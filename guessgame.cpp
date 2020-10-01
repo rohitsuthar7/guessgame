@@ -1,4 +1,5 @@
-//this is my first repository
+//this is my first repository 
+/*t-shirt k chakkar m kya kya karna padta*/
 #include<iostream>
 using namespace std;
 void startgame();
