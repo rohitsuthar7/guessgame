@@ -43,7 +43,7 @@ void startgame(){
                 cout<<"\n-------YOU LOSE!!!!-------\n\n";break;
             }
         }
-  /* for(int i=0;i<limit;i++)
+   for(int i=0;i<limit;i++)
       {
         cout<<"Enter the Guess number:";
             cin>>guess;
@@ -51,6 +51,7 @@ void startgame(){
             if(secretNum==guess){
                 cout<<"\n-------YOU WON!!!!-------\n\n";break;
             }
-      }*/
+      }
+  // this is an update. 
     }
 
